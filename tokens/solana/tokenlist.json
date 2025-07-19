@@ -1,1 +1,27 @@
+{
+  "name": "Neurogen Token List",
+  "logoURI": "https://i.imgur.com/OGYuJju.png",
+  "keywords": ["neurogen", "nrg", "ai", "utility"],
+  "tags": {
+    "ai": { "name": "AI", "description": "AI-related token" },
+    "utility-token": { "name": "Utility", "description": "Utility token for the ecosystem" }
+  },
+  "timestamp": "2025-07-19T21:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "CBTuVEM1Z5z5ddfQVEGAAHPN1ckj6j97zHvKtrc78suj",
+      "symbol": "NRG",
+      "name": "Neurogen",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/OGYuJju.png",
+      "tags": ["ai", "utility-token"]
+    }
+  ]
+}
 
