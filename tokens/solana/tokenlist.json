@@ -1,16 +1,16 @@
 {
   "name": "Neurogen Token List",
-  "logoURI": "https://i.imgur.com/OGYuJju.png",
+  "logoURI": "https://raw.githubusercontent.com/NeurogenAI2025/neurogen-tokenlist/main/tokens/solana/logo.png",
   "keywords": ["neurogen", "nrg", "ai", "utility"],
   "tags": {
     "ai": { "name": "AI", "description": "AI-related token" },
     "utility-token": { "name": "Utility", "description": "Utility token for the ecosystem" }
   },
-  "timestamp": "2025-07-19T21:00:00+00:00",
+  "timestamp": "2025-08-05T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -19,9 +19,8 @@
       "symbol": "NRG",
       "name": "Neurogen",
       "decimals": 9,
-      "logoURI": "https://i.imgur.com/OGYuJju.png",
+      "logoURI": "https://raw.githubusercontent.com/NeurogenAI2025/neurogen-tokenlist/main/tokens/solana/logo.png",
       "tags": ["ai", "utility-token"]
     }
   ]
 }
-
